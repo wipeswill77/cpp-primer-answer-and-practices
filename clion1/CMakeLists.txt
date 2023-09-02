@@ -3,10 +3,12 @@ project(clion1)
 
 set(CMAKE_CXX_STANDARD 20)
 
+FILE(GLOB_RECURSE HEADERS ${CMAKE_CURRENT_SOURCE_DIR}/Sales_data/*.h)
+FILE(GLOB_RECURSE SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/Sales_data/*.cpp)
+
 add_executable(clion1 main.cpp
-        Sales_data/Sales_data.cpp
-        Sales_data/Sales_data.h
-        Sales_data/Person.cpp
-        Sales_data/Person.h
         headers.h
+        ${HEADERS}
+        ${SOURCES}
 )
+

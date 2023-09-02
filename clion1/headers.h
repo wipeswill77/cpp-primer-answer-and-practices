@@ -13,5 +13,4 @@ using namespace std;
 
 
 
-
 #endif //CLION1_HEADERS_H
