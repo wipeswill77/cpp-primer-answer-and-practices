@@ -1,16 +1,9 @@
 # ninja log v5
-5	956	7151655893504137	CMakeFiles/clion1.dir/main.cpp.obj	9cf3039774a1ade2
-14	845	7151524117274503	CMakeFiles/clion1.dir/Sales_data/Person.cpp.obj	b6979075ea0ce0e7
-890	1167	7151524120458586	clion1.exe	fc9808fcb7260c8
-9	847	7151524117274503	CMakeFiles/clion1.dir/Sales_data/Sales_data.cpp.obj	21612aee1c2c46a2
 4	930	7151657201032837	CMakeFiles/clion1.dir/Sales_data/Person.cpp.obj	b6979075ea0ce0e7
-10	935	7151657201082481	CMakeFiles/clion1.dir/Sales_data/Sales_data.cpp.obj	21612aee1c2c46a2
-936	1144	7151657203114410	clion1.exe	cfb9785022b721b4
-4	1062	7151820916604389	CMakeFiles/clion1.dir/main.cpp.obj	9cf3039774a1ade2
-1063	1289	7151820918857719	clion1.exe	cfb9785022b721b4
-4	942	7151826556456156	CMakeFiles/clion1.dir/main.cpp.obj	9cf3039774a1ade2
-943	1133	7151826558356689	clion1.exe	cfb9785022b721b4
-6	1048	7151827919507451	CMakeFiles/clion1.dir/main.cpp.obj	9cf3039774a1ade2
-1049	1228	7151827921263101	clion1.exe	cfb9785022b721b4
 5	876	7151830102130870	CMakeFiles/clion1.dir/main.cpp.obj	9cf3039774a1ade2
-877	1069	7151830104017110	clion1.exe	cfb9785022b721b4
+10	935	7151657201082481	CMakeFiles/clion1.dir/Sales_data/Sales_data.cpp.obj	21612aee1c2c46a2
+1006	1211	7153283425445072	clion1.exe	f4d9ec4edc12e881
+3	168	7154909129393027	build.ninja	34bedf05d28c913c
+4	811	7153283421480738	CMakeFiles/clion1.dir/cpp/Person.cpp.obj	90911c2ba4bb7b34
+8	819	7153283421560533	CMakeFiles/clion1.dir/cpp/Sales_data.cpp.obj	1803d40e6268e6f4
+0	1005	7153283423405041	CMakeFiles/clion1.dir/cpp/main.cpp.obj	4ae02f5692222f2b

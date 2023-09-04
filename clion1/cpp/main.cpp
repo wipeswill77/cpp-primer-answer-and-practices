@@ -1,6 +1,6 @@
-#include "headers.h"
-#include "Sales_data/Sales_data.h"
-
+#include "../h/headers.h"
+#include "../h/Sales_data.h"
+#include "../h/Person.h"
 /*
  * 界面系统，存储（json），查询
  */
@@ -14,6 +14,12 @@ int main()
     cout << "2 : delete data." << endl;
     cout << "3 : check book data." << endl;
     cout << "4 : combine book data." << endl;
+    Person person1;
+    string name="nihao";
+    string address="yantai";
+    person1.setAddress(address);
+    person1.setName((name));
+    cout<<person1.getAddress()<<endl;
 
     while (true) {
         cout << "Please select an action you want:" << endl;
@@ -97,7 +103,6 @@ int main()
         }else{
             cout<<"enter another number!"<<endl;
         }
-
 
     }
     cout << "Program exited." << endl;
