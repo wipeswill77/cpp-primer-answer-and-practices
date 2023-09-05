@@ -8,3 +8,17 @@
 void Person::setAddress(string &a) {
     address=a;
 }
+
+Person::Person(const string &name, const string &address) : name(name), address(address) {}
+
+const string &Person::getName() {
+    return name;
+}
+
+const string &Person::getAddress() {
+    return address;
+}
+
+void Person::setName(string &n) {
+    name=n;
+}

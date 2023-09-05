@@ -61,6 +61,18 @@ build CMakeFiles/clion1.dir/cpp/Sales_data.cpp.obj: CXX_COMPILER__clion1_unscann
   OBJECT_DIR = CMakeFiles\clion1.dir
   OBJECT_FILE_DIR = CMakeFiles\clion1.dir\cpp
 
+build CMakeFiles/clion1.dir/cpp/Screen.cpp.obj: CXX_COMPILER__clion1_unscanned_Debug D$:/code/c++primer/clion1/cpp/Screen.cpp || cmake_object_order_depends_target_clion1
+  DEP_FILE = CMakeFiles\clion1.dir\cpp\Screen.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\clion1.dir
+  OBJECT_FILE_DIR = CMakeFiles\clion1.dir\cpp
+
+build CMakeFiles/clion1.dir/cpp/Window_mgr.cpp.obj: CXX_COMPILER__clion1_unscanned_Debug D$:/code/c++primer/clion1/cpp/Window_mgr.cpp || cmake_object_order_depends_target_clion1
+  DEP_FILE = CMakeFiles\clion1.dir\cpp\Window_mgr.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\clion1.dir
+  OBJECT_FILE_DIR = CMakeFiles\clion1.dir\cpp
+
 build CMakeFiles/clion1.dir/cpp/main.cpp.obj: CXX_COMPILER__clion1_unscanned_Debug D$:/code/c++primer/clion1/cpp/main.cpp || cmake_object_order_depends_target_clion1
   DEP_FILE = CMakeFiles\clion1.dir\cpp\main.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
@@ -75,7 +87,7 @@ build CMakeFiles/clion1.dir/cpp/main.cpp.obj: CXX_COMPILER__clion1_unscanned_Deb
 #############################################
 # Link the executable clion1.exe
 
-build clion1.exe: CXX_EXECUTABLE_LINKER__clion1_Debug CMakeFiles/clion1.dir/cpp/Person.cpp.obj CMakeFiles/clion1.dir/cpp/Sales_data.cpp.obj CMakeFiles/clion1.dir/cpp/main.cpp.obj
+build clion1.exe: CXX_EXECUTABLE_LINKER__clion1_Debug CMakeFiles/clion1.dir/cpp/Person.cpp.obj CMakeFiles/clion1.dir/cpp/Sales_data.cpp.obj CMakeFiles/clion1.dir/cpp/Screen.cpp.obj CMakeFiles/clion1.dir/cpp/Window_mgr.cpp.obj CMakeFiles/clion1.dir/cpp/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\clion1.dir

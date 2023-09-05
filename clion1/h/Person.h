@@ -9,9 +9,11 @@
 
 class Person {
 public:
-    const string& getName() { return name; }
-    const string& getAddress() { return address; }
-    void setName(string& n){name=n;}
+    Person()=default;
+    Person(const string &name, const string &address);
+    const string& getName();
+    const string& getAddress();
+    void setName(string& n);
     void setAddress(string &a);
 private:
     string name;
