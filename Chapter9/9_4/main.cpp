@@ -1,5 +1,5 @@
 //exercise 9.4 and 9.5
-//sunxinyu
+//sun xinyu
 //2023年9月5日16:58:50
 //question:
 //Exercise 9.4: Write a function that takes a pair of iterators to a
