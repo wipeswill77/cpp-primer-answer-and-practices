@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/code/c++primer/Chapter9/9_27/cmake-build-debug",
-		"source" : "D:/code/c++primer/Chapter9/9_27"
+		"build" : "D:/code/homeworktep01/Chapter9/9_27/cmake-build-debug",
+		"source" : "D:/code/homeworktep01/Chapter9/9_27"
 	},
 	"version" : 
 	{
