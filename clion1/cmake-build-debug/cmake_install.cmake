@@ -1,4 +1,4 @@
-# Install script for directory: D:/code/c++primer/clion1
+# Install script for directory: D:/code/homeworktep01/clion1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/code/CLion 2023.2.1/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "D:/programming/CLion 2023.2.1/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/code/c++primer/clion1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/code/homeworktep01/clion1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
