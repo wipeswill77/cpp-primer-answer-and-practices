@@ -16,10 +16,21 @@ int main() {
     }
     auto p=cv.begin();
     auto e=cv.end();
-    string s1(p,e);
-    string s2(s1, 0);
+//    string s1(p,e);
+//    string s2(s1, 0);
+//    cout<<s1<<endl;
+//    cout<<s2<<endl;
 
-    cout<<s1<<endl;
+    //test replace insert args
+    string s="Hello world!";
+    string s1=s,s2=s,s3=s,s4=s,s5=s,s6=s,s7=s,s8=s,s9=s;
+    string ss="naughty dog";
+    //replace (pos, len, args)
+    s1.replace(6, 5, ss);
+    s2.replace(6, 5, ss, 0, ss.size());
+    const char *cp="naughty dog";//c风格字符串
+    s3.replace(6,5,cp);
+
     cout<<s2<<endl;
     return 0;
 }
