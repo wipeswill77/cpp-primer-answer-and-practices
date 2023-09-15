@@ -1,3 +1,3 @@
-D:/code/c++primer/clion1/cmake-build-debug/CMakeFiles/clion1.dir
-D:/code/c++primer/clion1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/code/c++primer/clion1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code/homeworktep01/clion1/cmake-build-debug/CMakeFiles/clion1.dir
+D:/code/homeworktep01/clion1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/homeworktep01/clion1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
