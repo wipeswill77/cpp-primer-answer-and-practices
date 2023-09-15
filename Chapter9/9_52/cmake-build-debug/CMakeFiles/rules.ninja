@@ -6,7 +6,11 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
+<<<<<<<< HEAD:Chapter9/9_52/cmake-build-debug/CMakeFiles/rules.ninja
 # Project: practice
+========
+# Project: 9_43
+>>>>>>>> 65c03010a30375c25fc897e6982bde9a99650852:Chapter9/9_43/cmake-build-debug/CMakeFiles/rules.ninja
 # Configurations: Debug
 # =============================================================================
 # =============================================================================
@@ -14,18 +18,27 @@
 #############################################
 # Rule for compiling CXX files.
 
+<<<<<<<< HEAD:Chapter9/9_52/cmake-build-debug/CMakeFiles/rules.ninja
 rule CXX_COMPILER__practice_unscanned_Debug
+========
+rule CXX_COMPILER__9_43_unscanned_Debug
+>>>>>>>> 65c03010a30375c25fc897e6982bde9a99650852:Chapter9/9_43/cmake-build-debug/CMakeFiles/rules.ninja
   depfile = $DEP_FILE
   deps = gcc
-  command = "D:\code\CLion 2023.2.1\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\PROGRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
 #############################################
 # Rule for linking CXX executable.
 
+<<<<<<<< HEAD:Chapter9/9_52/cmake-build-debug/CMakeFiles/rules.ninja
 rule CXX_EXECUTABLE_LINKER__practice_Debug
   command = cmd.exe /C "$PRE_LINK && "D:\code\CLion 2023.2.1\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+========
+rule CXX_EXECUTABLE_LINKER__9_43_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\PROGRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+>>>>>>>> 65c03010a30375c25fc897e6982bde9a99650852:Chapter9/9_43/cmake-build-debug/CMakeFiles/rules.ninja
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -42,7 +55,11 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
+<<<<<<<< HEAD:Chapter9/9_52/cmake-build-debug/CMakeFiles/rules.ninja
   command = "D:\code\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\code\c++primer\practice -BD:\code\c++primer\practice\cmake-build-debug
+========
+  command = "D:\programming\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\code\homeworktep01\Chapter9\9_43 -BD:\code\homeworktep01\Chapter9\9_43\cmake-build-debug
+>>>>>>>> 65c03010a30375c25fc897e6982bde9a99650852:Chapter9/9_43/cmake-build-debug/CMakeFiles/rules.ninja
   description = Re-running CMake...
   generator = 1
 
@@ -51,7 +68,7 @@ rule RERUN_CMAKE
 # Rule for cleaning all built files.
 
 rule CLEAN
-  command = "D:\code\CLion 2023.2.1\bin\ninja\win\x64\ninja.exe" $FILE_ARG -t clean $TARGETS
+  command = D:\PROGRA~1\CLION2~1.1\bin\ninja\win\x64\ninja.exe $FILE_ARG -t clean $TARGETS
   description = Cleaning all built files...
 
 
@@ -59,6 +76,6 @@ rule CLEAN
 # Rule for printing all primary targets available.
 
 rule HELP
-  command = "D:\code\CLion 2023.2.1\bin\ninja\win\x64\ninja.exe" -t targets
+  command = D:\PROGRA~1\CLION2~1.1\bin\ninja\win\x64\ninja.exe -t targets
   description = All primary targets available:
 
