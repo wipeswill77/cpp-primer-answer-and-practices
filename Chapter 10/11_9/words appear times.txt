@@ -1,0 +1,148 @@
+the number of the words in article is 273
+"cat-like occurs in lines of 12.
+'a occurs in lines of 6.
+accumulate occurs in lines of 3.
+america occurs in lines of 1.
+animal occurs in lines of 13 17.
+animals occurs in lines of 1 11.
+another occurs in lines of 9.
+any occurs in lines of 14.
+are occurs in lines of 1.
+as occurs in lines of 3 14.
+at occurs in lines of 9 12 17.
+attack occurs in lines of 8.
+away occurs in lines of 7 10.
+been occurs in lines of 2 14 15.
+began occurs in lines of 3 6.
+behind occurs in lines of 10.
+being occurs in lines of 8.
+blackberries occurs in lines of 6.
+bushes occurs in lines of 12.
+businessman occurs in lines of 12.
+but occurs in lines of 14 16.
+by occurs in lines of 4.
+came occurs in lines of 1.
+cat' occurs in lines of 7.
+cat-like occurs in lines of 1.
+caught occurs in lines of 16.
+claimed occurs in lines of 4.
+clinging occurs in lines of 12.
+collector occurs in lines of 15.
+come occurs in lines of 14.
+complained occurs in lines of 12.
+confirmed occurs in lines of 8.
+convinced occurs in lines of 13.
+cornered occurs in lines of 8.
+country occurs in lines of 15.
+countryside occurs in lines of 17.
+dangerous occurs in lines of 17.
+dead occurs in lines of 10.
+deer occurs in lines of 10.
+descriptions occurs in lines of 4.
+difficult occurs in lines of 9.
+disturbing occurs in lines of 17.
+escape occurs in lines of 16.
+evening occurs in lines of 10.
+evidence occurs in lines of 3.
+experts occurs in lines of 3 7 13.
+extraordinarily occurs in lines of 5.
+felt occurs in lines of 3.
+fishing occurs in lines of 13.
+five occurs in lines of 7.
+for occurs in lines of 4 6 9 16.
+forty-five occurs in lines of 2.
+found occurs in lines of 1 11.
+from occurs in lines of 3 7 14.
+from? occurs in lines of 14.
+fully occurs in lines of 13.
+fur occurs in lines of 11.
+given occurs in lines of 4.
+had occurs in lines of 2 14.
+have occurs in lines of 4 15.
+her occurs in lines of 7.
+however occurs in lines of 3.
+human occurs in lines of 8.
+hunt occurs in lines of 6 16.
+immediately occurs in lines of 7.
+in occurs in lines of 1 6 9 10 11 14 15 17.
+into occurs in lines of 1.
+investigate occurs in lines of 4.
+is occurs in lines of 8 16 17.
+it occurs in lines of 7 8 10 14 16.
+large occurs in lines of 1 7 17.
+left occurs in lines of 10.
+like occurs in lines of 11.
+london occurs in lines of 1 2.
+managed occurs in lines of 16.
+miles occurs in lines of 2 10.
+missing occurs in lines of 14.
+morning occurs in lines of 9.
+must occurs in lines of 15.
+night occurs in lines of 12.
+no occurs in lines of 14.
+noises' occurs in lines of 12.
+not occurs in lines of 2 8 16.
+now occurs in lines of 13.
+number occurs in lines of 11.
+obliged occurs in lines of 3.
+observed occurs in lines of 9.
+of occurs in lines of 2 10 11 12 15.
+often occurs in lines of 9.
+on occurs in lines of 12 16.
+one occurs in lines of 9 15.
+only occurs in lines of 7.
+paw occurs in lines of 11.
+people occurs in lines of 4 12.
+picking occurs in lines of 6.
+place occurs in lines of 9.
+places occurs in lines of 11.
+possession occurs in lines of 15.
+prints occurs in lines of 11.
+private occurs in lines of 15.
+proved occurs in lines of 8.
+puma occurs in lines of 2 4 6 8 9 11 13 14 16.
+pumas occurs in lines of 1 14.
+quiet occurs in lines of 17.
+rabbits occurs in lines of 11.
+ran occurs in lines of 7.
+reported occurs in lines of 14.
+reports occurs in lines of 1.
+saw occurs in lines of 6 7 13.
+search occurs in lines of 8.
+seen occurs in lines of 4 11.
+seriously occurs in lines of 3.
+several occurs in lines of 12 16.
+she occurs in lines of 7.
+similar occurs in lines of 5.
+small occurs in lines of 6 11.
+somehow occurs in lines of 15.
+south occurs in lines of 2.
+spotted occurs in lines of 2.
+still occurs in lines of 17.
+taken occurs in lines of 2.
+that occurs in lines of 2 8 13 17.
+they occurs in lines of 2.
+think occurs in lines of 17.
+this occurs in lines of 15.
+to occurs in lines of 3 4 12 16 17.
+trail occurs in lines of 10.
+tree occurs in lines of 13.
+trip occurs in lines of 13.
+twenty occurs in lines of 10.
+unless occurs in lines of 8.
+up occurs in lines of 13.
+village occurs in lines of 6.
+was occurs in lines of 9 11 13 16.
+weeks occurs in lines of 16.
+went occurs in lines of 10 16.
+were occurs in lines of 2 4 11 13.
+when occurs in lines of 1 7.
+where occurs in lines of 6 14.
+wherever occurs in lines of 10.
+which occurs in lines of 1.
+who occurs in lines of 4.
+wild occurs in lines of 2 17.
+will occurs in lines of 8.
+woman occurs in lines of 6.
+yards occurs in lines of 7.
+zoo occurs in lines of 2 3 14.

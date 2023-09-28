@@ -1,0 +1,21 @@
+# ninja log v5
+1	534	7167257706064952	CMakeFiles/lambda_practice.dir/main.cpp.obj	6cad8bd5d81ffe54
+537	751	7167257708219124	lambda_practice.exe	b0851b4036720fc6
+3	500	7167259206066112	CMakeFiles/lambda_practice.dir/main.cpp.obj	6cad8bd5d81ffe54
+500	660	7167259207621954	lambda_practice.exe	b0851b4036720fc6
+3	836	7167264335225136	CMakeFiles/lambda_practice.dir/main.cpp.obj	6cad8bd5d81ffe54
+837	1023	7167264337054725	lambda_practice.exe	b0851b4036720fc6
+4	789	7167264506509898	CMakeFiles/lambda_practice.dir/main.cpp.obj	6cad8bd5d81ffe54
+790	946	7167264508045787	lambda_practice.exe	b0851b4036720fc6
+4	730	7167265185577440	CMakeFiles/lambda_practice.dir/main.cpp.obj	6cad8bd5d81ffe54
+731	899	7167265187215222	lambda_practice.exe	b0851b4036720fc6
+5	924	7167272236337897	CMakeFiles/lambda_practice.dir/main.cpp.obj	6cad8bd5d81ffe54
+924	1102	7167272238088761	lambda_practice.exe	b0851b4036720fc6
+5	912	7167273062542653	CMakeFiles/lambda_practice.dir/main.cpp.obj	6cad8bd5d81ffe54
+913	1082	7167273064217976	lambda_practice.exe	b0851b4036720fc6
+4	915	7167283176431341	CMakeFiles/lambda_practice.dir/main.cpp.obj	6cad8bd5d81ffe54
+915	1083	7167283178097031	lambda_practice.exe	b0851b4036720fc6
+7	910	7169619856619241	CMakeFiles/lambda_practice.dir/main.cpp.obj	6cad8bd5d81ffe54
+911	1102	7169619858516632	lambda_practice.exe	b0851b4036720fc6
+5	1102	7169634088825669	CMakeFiles/lambda_practice.dir/main.cpp.obj	6cad8bd5d81ffe54
+1103	1304	7169634090824353	lambda_practice.exe	b0851b4036720fc6

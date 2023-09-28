@@ -1,0 +1,3 @@
+D:/code/c++primer/Chapter 10/10_29_32/cmake-build-debug/CMakeFiles/10_29_32.dir
+D:/code/c++primer/Chapter 10/10_29_32/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/c++primer/Chapter 10/10_29_32/cmake-build-debug/CMakeFiles/rebuild_cache.dir
